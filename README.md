@@ -6,8 +6,8 @@ Report by two Salisbury Univerisity Sophomores.
 
 ### Collaboration by:
 
-- Justin Ventura (Computer Science, Mathematics, Data Science Majors)
 - Jacob Duncan (Computer Science Major, Mathematics Minor)
+- Justin Ventura (Computer Science, Mathematics, Data Science Majors)
 
 ## Application Description
 
