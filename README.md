@@ -26,5 +26,3 @@ For a formal analysis, please refer to the following files:
 - Report.pdf: This is the final draft of our Research Report & Analysis written in LaTeX.  This includes all sources and citations, data, and source code outputs.  However, if you would like even more outputs, refer to the data.txt!
 - Report.tex: This is the source code for our LaTeX Report, if for some reason this interests you.
 - data.txt: This file contains some of the empirical data collected for viewing purposes. (/Data)
-
-### "Mathematics is not about you know, but what you do when you don't know." - Randall Cone
