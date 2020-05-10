@@ -9,4 +9,3 @@ This is the Data Directory where all numerous tests were run and data stored her
 - explanation.txt: this file explains the formatting of our output.
 - output.txt: this shows the results from 500 walks, with the desired average of 168 steps.
 
-### "The purpose of computation is insight, not numbers." - Richard Hamming
